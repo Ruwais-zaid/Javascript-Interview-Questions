@@ -18,4 +18,10 @@ myfun();
 function myfun(){
     console.log("Second")
 }
+function myfunc(){
+    console.log("third")
+}
+function myfunc(){
+    console.log("fourth")
+}
 myfun();

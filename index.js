@@ -18,4 +18,7 @@ myfun();
 function myfun(){
     console.log("Second")
 }
+function myfunc(){
+    console.log("third")
+}
 myfun();

@@ -21,4 +21,7 @@ function myfun(){
 function myfunc(){
     console.log("third")
 }
+function myfunc(){
+    console.log("fourth")
+}
 myfun();
